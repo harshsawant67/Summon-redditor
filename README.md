@@ -28,8 +28,8 @@ Reddit is full of strong opinions, stranger usernames, and overconfidence. We th
 |----------------|-----------------------------|
 | **Frontend**    | React 18.3.1 + TypeScript   |
 | **Build Tool**  | Vite                        |
-| **Styling**     | Tailwind CSS + Google Fonts (Exo 2, Poppins) |
-| **State Mgmt**  | React Context + Hooks       |
+| **Styling**     | Tailwind CSS |
+| **State Mgmt**  | React Context      |
 | **Deployment**  | Netlify                     |
 
 ---
