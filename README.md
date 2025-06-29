@@ -30,7 +30,6 @@ Reddit is full of strong opinions, stranger usernames, and overconfidence. We th
 | **Build Tool**  | Vite                        |
 | **Styling**     | Tailwind CSS + Google Fonts (Exo 2, Poppins) |
 | **State Mgmt**  | React Context + Hooks       |
-| **Notifications** | react-hot-toast           |
 | **Deployment**  | Netlify                     |
 
 ---
